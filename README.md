@@ -2,7 +2,7 @@
 
 ## Life Decision Maker
 ### Savannah Finn
-#### A strange journey through through the jungle teaches the user to **never** interact with monkeys.
+#### A strange journey through the jungle teaches the user to **never** interact with monkeys.
 ### Requirements
  * Python3
  * [This super epic monkey website](https://stock.adobe.com/search?k=monkeys+group)
@@ -12,7 +12,7 @@
 
 ### Your story will start with the decision to turn left or right, select either `l or r` to make your first choice
 >depending on which monkey you meet, choose your next move wisely. (I'm kidding, nothing  you choose actually matters because you will die either way).  
-view this here-  
+view this code block here-  
 _`print("The monkey attacks you and you die instantly. Game over.")`_
 
 ![supposedly nice monkey](image.png)
